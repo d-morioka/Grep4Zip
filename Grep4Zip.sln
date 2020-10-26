@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grep4Zip", "Grep4Zip\Grep4Zip.csproj", "{AEFD2483-D4EC-4917-93E5-C503876A6F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEFD2483-D4EC-4917-93E5-C503876A6F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFD2483-D4EC-4917-93E5-C503876A6F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFD2483-D4EC-4917-93E5-C503876A6F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFD2483-D4EC-4917-93E5-C503876A6F02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39F42DC4-E165-4C95-BF9C-EE51721D4149}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Display>
+  <Initialize>
+    <key>a</key>
+    <folder>c:\10_work</folder>
+    <Subfolder>False</Subfolder>
+    <extension>.txt;.ini</extension>
+  </Initialize>
+</Display>

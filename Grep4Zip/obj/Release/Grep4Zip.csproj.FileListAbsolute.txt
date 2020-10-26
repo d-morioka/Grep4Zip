@@ -1,0 +1,10 @@
+C:\00_dev\Grep4Zip\Grep4Zip\bin\Release\Grep4Zip.exe.config
+C:\00_dev\Grep4Zip\Grep4Zip\bin\Release\Grep4Zip.exe
+C:\00_dev\Grep4Zip\Grep4Zip\bin\Release\Grep4Zip.pdb
+C:\00_dev\Grep4Zip\Grep4Zip\obj\Release\Grep4Zip.frmMain.resources
+C:\00_dev\Grep4Zip\Grep4Zip\obj\Release\Grep4Zip.Properties.Resources.resources
+C:\00_dev\Grep4Zip\Grep4Zip\obj\Release\Grep4Zip.csproj.GenerateResource.cache
+C:\00_dev\Grep4Zip\Grep4Zip\obj\Release\Grep4Zip.csproj.CoreCompileInputs.cache
+C:\00_dev\Grep4Zip\Grep4Zip\obj\Release\Grep4Zip.exe
+C:\00_dev\Grep4Zip\Grep4Zip\obj\Release\Grep4Zip.pdb
+C:\00_dev\Grep4Zip\Grep4Zip\obj\Release\Grep4Zip.csprojAssemblyReference.cache
